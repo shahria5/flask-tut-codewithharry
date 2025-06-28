@@ -1,0 +1,20 @@
+{
+    "params": {
+        "local_server": "True",
+        "local_uri": "mysql://root:@localhost/coding",
+        "prod_uri": "mysql://root:@localhost/coding",
+        "fb_url": "https://www.facebook.com/",
+        "tw_url": "https://x.com/",
+        "gh_url": "https://github.com/",
+        "blog_name": "coding",
+        "tag_name": "A Blog liked by Programmers",
+        "gmail_user": "shahriaha118@gmail.com",
+        "gmail_password": "YOUR_PASSWORD_HERE",
+        "about": "Hello, my name is Shahria and I am a Programmer.",
+        "number_of_posts": 2,
+        "login_img": "assets/img/bootstrap-logo.svg",
+        "admin_user": "admin",
+        "admin_password": "aa",
+        "upload_location": "F:/python code/static"
+    }
+}
